@@ -1,70 +1,94 @@
-# Getting Started with Create React App
+# Project Title
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+marcellui portfolio + ai chat bot project
 
-## Available Scripts
+## Overview
 
-In the project directory, you can run:
+What is your app? Brief description in a couple of sentences.
+it is a portfolio app for myself that has my resume and previous projects and experiences.
+under the projects tab there will be an ai chatbot where when you send a message it gives a personalized response potentially based on what I would say
 
-### `npm start`
+### Problem
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Why is your app needed? Background information around any pain points or other reasons.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+app is needed for a portfolio for myself to give to employers.
 
-### `npm test`
+### User Profile
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Who will use your app? How will they use it? Any special considerations that your app must take into account.
 
-### `npm run build`
+employers and other individuals interested in me will use this app. there are no special considerations that must be taken into account
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Features
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+List the functionality that your app will include. These can be written as user stories or descriptions with related details. Do not describe _how_ these features are implemented, only _what_ needs to be implemented.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+home page with a nav bar with the tabs (home/about/projects/resume)
+the home page has a quick intro about me
+the about page has a detailed writeup about me
+the projects page has a list of projects completed by me, and you can click into each project to view it in more detail
+the resume page has my resume
 
-### `npm run eject`
+## Implementation
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Tech Stack
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+List technologies that will be used in your app, including any libraries to save time or provide more functionality. Be sure to research any potential limitations.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+React
+Node 
+Express (?)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### APIs
 
-## Learn More
+List any external sources of data that will be used in your app.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+https://platform.openai.com/docs/quickstart?context=node
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Sitemap
 
-### Code Splitting
+List the pages of your app with brief descriptions. You can show this visually, or write it out.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+the home page has a quick intro about me
+the about page has a detailed writeup about me
+the projects page has a list of projects completed by me, and you can click into each project to view it in more detail
+the resume page has my resume
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### Mockups
 
-### Making a Progressive Web App
+Provide visuals of your app's screens. You can use tools like Figma or pictures of hand-drawn sketches.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+### Data
 
-### Advanced Configuration
+Describe your data and the relationships between them. You can show this visually using diagrams, or write it out. 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+N/A
 
-### Deployment
+### Endpoints
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+List endpoints that your server will implement, including HTTP methods, parameters, and example responses.
 
-### `npm run build` fails to minify
+/home - goes to the home page
+/about - goes to the about page
+/projects - goes to the projects page
+/resume - goes to the resume page
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Auth
+
+Does your project include any login or user profile functionality? If so, describe how authentication/authorization will be implemented.
+
+none
+
+## Roadmap
+
+Scope your project as a sprint. Break down the tasks that will need to be completed and map out timeframes for implementation. Think about what you can reasonably complete before the due date. The more detail you provide, the easier it will be to build.
+
+week 1 build out front end site 
+week 2 build out AI chat bot
+
+## Nice-to-haves
+
+Your project will be marked based on what you committed to in the above document. Under nice-to-haves, you can list any additional features you may complete if you have extra time, or after finishing.
