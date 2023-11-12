@@ -92,3 +92,5 @@ week 2 build out AI chat bot
 ## Nice-to-haves
 
 Your project will be marked based on what you committed to in the above document. Under nice-to-haves, you can list any additional features you may complete if you have extra time, or after finishing.
+
+blog feature where i can post blogs 
