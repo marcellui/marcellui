@@ -12,7 +12,7 @@ under the projects tab there will be an ai chatbot where when you send a message
 
 Why is your app needed? Background information around any pain points or other reasons.
 
-app is needed for a portfolio for myself to give to employers.
+app is needed for a portfolio for myself to give to employers and prospective individuals who are interested in myself
 
 ### User Profile
 
@@ -59,6 +59,8 @@ the resume page has my resume
 ### Mockups
 
 Provide visuals of your app's screens. You can use tools like Figma or pictures of hand-drawn sketches.
+
+https://www.figma.com/file/fK4m58FE0wzLaRYeVDCFju/Mockup-Capstone?type=design&node-id=0%3A1&mode=design&t=vKIE6l6FzyO9tZeQ-1
 
 ### Data
 
