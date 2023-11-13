@@ -1,7 +1,7 @@
 import { Routes, Route, BrowserRouter } from "react-router-dom";
 import "./App.css";
 import Home from "./pages/Home";
-// import About from "./pages/About";
+import About from "./pages/About";
 // import Projects from "./pages/Projects";
 // import Resume from "./pages/Resume";
 // import QuinnAI from "./pages/QuinnAI";
@@ -29,8 +29,8 @@ function AppRoutes() {
         
             <Routes>
               <Route path="/" element={<Home />} />
-              {/* <Route path="about" element={<About />} />
-              <Route path="projects" element={<Projects />} />
+              <Route path="about" element={<About />} />
+              {/* <Route path="projects" element={<Projects />} />
               <Route path="resume" element={<Resume />} />
               <Route path="quinn-ai" element={<QuinnAI />} /> */}
            
