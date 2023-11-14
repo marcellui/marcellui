@@ -9,6 +9,7 @@ const hobbies = [
   "bar hopping through neighbourhoods",
   "playing league of legends",
   "crafting a new spotify playlist",
+  "singing karaoke",
   "still breaking code lol",
 ];
 

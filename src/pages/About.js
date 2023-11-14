@@ -24,9 +24,9 @@ function About() {
       <p>
         i'm a 3A mechanical engineering student at the {" "}
         <a href="https://www.uwaterloo.ca" target="_blank" class="clickable">
-          University of Waterloo
+          university of waterloo
         </a>
-        . When i'm not attending class, i'm building solar cars and learning how to CAD things.
+        . when i'm not attending class, i'm learning how to code or designing things in CAD.
         <br />
         <br />
         
@@ -39,14 +39,13 @@ function About() {
       <p>did some internships:</p>
       <ul>
         <li>
-         
+            designed and built elevators @ <a>Delta Elevator</a>
         </li>
         <li>
-         
-    
+            designed medical devices used for surgery @ <a>SMART Lab</a>
         </li>
         <li>
-         
+            designed stairwells and metal fixtures @ <a>Prica Construction Group</a>
         </li>
         <li>
           

@@ -7,7 +7,7 @@ import About from "./pages/About";
 // import QuinnAI from "./pages/QuinnAI";
 import "./index.css";
 import NavBar from "./components/navbar";
-// import Footer from "./components/footer";
+import Footer from "./components/footer";
 // import TagManager from "react-gtm-module";
 
 
@@ -37,7 +37,7 @@ function AppRoutes() {
             </Routes>
         
 
-            {/* <Footer /> */}
+            <Footer />
           </div>
         </div>
 
