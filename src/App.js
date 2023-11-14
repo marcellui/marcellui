@@ -2,9 +2,9 @@ import { Routes, Route, BrowserRouter } from "react-router-dom";
 import "./App.css";
 import Home from "./pages/Home";
 import About from "./pages/About";
-// import Projects from "./pages/Projects";
+import Projects from "./pages/Projects";
 // import Resume from "./pages/Resume";
-// import QuinnAI from "./pages/QuinnAI";
+// import marcelAI from "./pages/MarcelAI";
 import "./index.css";
 import NavBar from "./components/navbar";
 import Footer from "./components/footer";
@@ -30,9 +30,9 @@ function AppRoutes() {
             <Routes>
               <Route path="/" element={<Home />} />
               <Route path="about" element={<About />} />
-              {/* <Route path="projects" element={<Projects />} />
-              <Route path="resume" element={<Resume />} />
-              <Route path="quinn-ai" element={<QuinnAI />} /> */}
+              <Route path="projects" element={<Projects />} />
+              {/* <Route path="resume" element={<Resume />} />
+              <Route path="marcel-ai" element={<marcelAI />} /> */}
            
             </Routes>
         

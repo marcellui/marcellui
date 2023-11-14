@@ -15,7 +15,7 @@ function About() {
         hello! i'm someone who's a bit all over the place. i game, i cook, and i'm a proud father to my cat anubis. i love all things tech and sustainability. 
         I still haven't really figured out my path, but I continue to try new things to learn and grow!
         <br />
-        <br />
+    
       </p>
       <p> </p>
       <p>
@@ -28,8 +28,7 @@ function About() {
         </a>
         . when i'm not attending class, i'm learning how to code or designing things in CAD.
         <br />
-        <br />
-        
+    
        
       </p>
       <p> </p>
@@ -45,23 +44,16 @@ function About() {
             designed medical devices used for surgery @ <a>SMART Lab</a>
         </li>
         <li>
-            designed stairwells and metal fixtures @ <a>Prica Construction Group</a>
-        </li>
-        <li>
-          
+            designed stairwells, benches, bikeracks, and metal fixtures @ <a>Prica Construction Group</a>
         </li>
       </ul>
-      <p></p>
+      <p>did a bootcamp:</p>
+
       <p></p>
       <ul>
         <li>
-          
+        <p>Software Engineering @ <a>BrainStation</a> learning fullstack development </p>
         </li>
-        <li>
-          
-        </li>
-        
-        
       </ul>
      
     </div>
