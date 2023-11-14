@@ -38,13 +38,25 @@ function About() {
       <p>did some internships:</p>
       <ul>
         <li>
-            designed and built elevators @ <a>Delta Elevator</a>
+            designed and built elevators @ (<a href="https://www.delta-elevator.com/"
+            class="clickable"
+            target="_blank">
+            
+                Delta Elevator</a>)
         </li>
         <li>
-            designed medical devices used for surgery @ <a>SMART Lab</a>
+            designed medical devices used for surgery @ (<a href="https://uwaterloo.ca/smart-materials-advanced-robotic-technologies/"
+            class="clickable"
+            target="_blank">
+            
+                SMART Lab</a>)
         </li>
         <li>
-            designed stairwells, benches, bikeracks, and metal fixtures @ <a>Prica Construction Group</a>
+            designed stairwells, benches, bikeracks, and metal fixtures @ (<a href="https://www.pricagroupcm.com/"
+            class="clickable"
+            target="_blank">
+            
+                Prica Construction Group</a>)
         </li>
       </ul>
       <p>did a bootcamp:</p>
@@ -52,7 +64,7 @@ function About() {
       <p></p>
       <ul>
         <li>
-        <p>Software Engineering @ <a>BrainStation</a> learning fullstack development </p>
+        <p>Software Engineering @ <a>BrainStation</a> learning f </p>
         </li>
       </ul>
      
