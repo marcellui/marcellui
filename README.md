@@ -18,7 +18,7 @@ app is needed for an interactive portfolio for myself to give to employers and p
 
 Who will use your app? How will they use it? Any special considerations that your app must take into account.
 
-employers and other individuals interested in me will use this app. there are no special considerations that must be taken into account
+employers and other individuals interested in me will use this app. they will use it to view my about me and projects and resume.  there are no special considerations that must be taken into account
 
 ### Features
 
