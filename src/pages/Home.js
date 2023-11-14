@@ -2,14 +2,12 @@ import { useState, useEffect } from "react";
 import { NavLink } from "react-router-dom";
 
 const hobbies = [
-  "playing my ukulele",
-  "cafe hopping around the city",
+  "playing the piano",
   "pretending to be busy",
   "walking through cities",
-  "walking through art galleries",
-  "drafting up new songs",
+  "writing new songs",
   "bar hopping through neighbourhoods",
-  "watching super smash bros melee",
+  "playing league of legends",
   "crafting a new spotify playlist",
   "still breaking code lol",
 ];
@@ -52,7 +50,7 @@ function Home() {
 
   return (
     <div>
-      <h2>i'm marcel!</h2>
+      <h2>hi! i'm marcel!</h2>
       <p>
         welcome to my little{" "}
         <a class="clickable" id="corner" onClick={handleSpaceClick}>

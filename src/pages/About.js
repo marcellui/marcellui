@@ -12,14 +12,10 @@ function About() {
   
       <hr class="dashed" />
       <p>
-        hello! i'm someone who's a bit all over the place. 
-       I still haven't really figured out what I will be, but I continue to soak in my surroundings everyday to learn and grow!
+        hello! i'm someone who's a bit all over the place. i game, i cook, and i'm a proud father to my cat anubis. i love all things tech and sustainability. 
+        I still haven't really figured out my path, but I continue to try new things to learn and grow!
         <br />
         <br />
-        i'm a serial hobby hopper, i dabble in the arts, i stay fit, and i'm
-        currently on the quest for a perfect cup of coffee. my existence in so
-        many things really helped shape the learner that i am today, and the one
-        i'll be tomorrow!
       </p>
       <p> </p>
       <p>
@@ -30,13 +26,11 @@ function About() {
         <a href="https://www.uwaterloo.ca" target="_blank" class="clickable">
           University of Waterloo
         </a>
-        . When i'm not attending class, i'm building solar cars and learning how to design things.
+        . When i'm not attending class, i'm building solar cars and learning how to CAD things.
         <br />
         <br />
-        i'm interested in accessibility, and all creative intersections of tech
-        and art &#127912;.
-        <br />
-        <br />
+        
+       
       </p>
       <p> </p>
       <p>

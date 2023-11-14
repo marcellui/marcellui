@@ -12,7 +12,7 @@ under the projects tab there will be an ai chatbot where when you send a message
 
 Why is your app needed? Background information around any pain points or other reasons.
 
-app is needed for a portfolio for myself to give to employers and prospective individuals who are interested in myself
+app is needed for an interactive portfolio for myself to give to employers and prospective individuals who are interested in myself. Interactive porfolio with an AI chat feature would be useful because it allows for employers and individuals with questions about me to be answered without me being online or wait for a response via email.
 
 ### User Profile
 
@@ -38,7 +38,8 @@ List technologies that will be used in your app, including any libraries to save
 
 React
 Node 
-Express (?)
+Express
+Open AI
 
 ### APIs
 
@@ -88,6 +89,9 @@ none
 
 Scope your project as a sprint. Break down the tasks that will need to be completed and map out timeframes for implementation. Think about what you can reasonably complete before the due date. The more detail you provide, the easier it will be to build.
 
+
+Nov 14 Finish Proposal
+Nov 15 
 week 1 build out front end site 
 week 2 build out AI chat bot
 
