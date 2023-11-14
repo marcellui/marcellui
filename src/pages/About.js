@@ -3,7 +3,7 @@ import { NavLink } from "react-router-dom";
 
 function About() {
   useEffect(() => {
-    document.title = "marcels's life";
+    document.title = "marcel's life";
   }, []);
 
   return (
@@ -64,10 +64,25 @@ function About() {
       <p></p>
       <ul>
         <li>
-        <p>Software Engineering @ <a>BrainStation</a> learning f </p>
+        <p>Software Engineering @ <a href="https://www.brainstation.io/"
+            class="clickable"
+            target="_blank"> 
+            BrainStation  
+            </a>
+            </p>
         </li>
       </ul>
-     
+      <p>did some clubs:</p>
+    <ul>
+     <li> <p>designed car panels and suspension components @ <a href="https://www.uwmidsun.com/"
+            class="clickable"
+            target="_blank"> 
+            Midnight Sun
+            </a>
+            </p>
+     </li>
+    </ul>
+      
     </div>
   );
 }
