@@ -24,11 +24,12 @@ employers and other individuals interested in me will use this app. there are no
 
 List the functionality that your app will include. These can be written as user stories or descriptions with related details. Do not describe _how_ these features are implemented, only _what_ needs to be implemented.
 
-home page with a nav bar with the tabs (home/about/projects/resume)
-the home page has a quick intro about me
-the about page has a detailed writeup about me
-the projects page has a list of projects completed by me, and you can click into each project to view it in more detail
-the resume page has my resume
+home page with a nav bar with the tabs (home/about/projects/resume).
+the home page has a quick intro about me.
+the about page has a detailed writeup about me.
+the projects page has a list of projects completed by me, and you can click into each project to view it in more detail.
+the resume page has my resume.
+the marcel ai page has an ai that gives personalized responses based off what I would say. 
 
 ## Implementation
 
@@ -51,11 +52,12 @@ https://platform.openai.com/docs/quickstart?context=node
 
 List the pages of your app with brief descriptions. You can show this visually, or write it out.
 
-the home page has a quick intro about me
-the about page has a detailed writeup about me
-the projects page has a list of projects completed by me, and you can click into each project to view it in more detail
-the resume page has my resume
-
+the home page has a quick intro about me.
+the about page has a detailed writeup about me.
+the projects page has a list of projects completed by me, and you can click into each project to view it in more detail.
+the resume page has my resume.
+the marcel ai page has an ai chat bot that gives personalized responses.
+ 
 
 ### Mockups
 
@@ -77,6 +79,7 @@ List endpoints that your server will implement, including HTTP methods, paramete
 /about - goes to the about page
 /projects - goes to the projects page
 /resume - goes to the resume page
+/marcel-ai goes to the marcel AI page
 
 
 ### Auth
@@ -91,12 +94,18 @@ Scope your project as a sprint. Break down the tasks that will need to be comple
 
 
 Nov 14 Finish Proposal
-Nov 15 
-week 1 build out front end site 
-week 2 build out AI chat bot
+
+
+Nov 15/16 Finish Front End 
+Nov 17 Start building AI Chat bot - connect API to js
+Nov 18-Nov 21 Finish AI Chat Bot
+Nov 22 build server
+
+
 
 ## Nice-to-haves
 
 Your project will be marked based on what you committed to in the above document. Under nice-to-haves, you can list any additional features you may complete if you have extra time, or after finishing.
 
 blog feature where i can post blogs 
+socket io to live chat with employer
