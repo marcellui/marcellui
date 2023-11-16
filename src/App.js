@@ -4,9 +4,9 @@ import Home from "./pages/Home";
 import About from "./pages/About";
 import Projects from "./pages/Projects";
 import Resume from "./pages/Resume";
-// import marcelAI from "./pages/MarcelAI";
+import MarcelAI from "./pages/MarcelAI";
 import "./index.css";
-import NavBar from "./components/navbar";
+import NavBar from "./components/NavBar";
 import Footer from "./components/footer";
 // import TagManager from "react-gtm-module";
 
@@ -28,12 +28,11 @@ function AppRoutes() {
           <div class="flex-container" id="content">
         
             <Routes>
-              <Route path="/" element={<Home />} />
+              <Route path="" element={<Home />} />
               <Route path="about" element={<About />} />
               <Route path="projects" element={<Projects />} />
               <Route path="resume" element={<Resume />} />
-              {/* <Route path="marcel-ai" element={<marcelAI />} /> */}
-           
+              <Route path="MarcelAI" element={<MarcelAI />} />
             </Routes>
         
 

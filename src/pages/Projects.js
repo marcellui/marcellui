@@ -10,13 +10,13 @@ function Projects() {
     <div>
       <p>
         here are some of my projects, find the rest on my{" "}
-        <a href="https://github.com/marcellui" class="clickable" target="_blank">
+        <a href="https://github.com/marcellui" class="clickable">
           github
         </a>{" "}
       </p>
       <hr class="dashed" />
       <p>
-        <NavLink to="/marcel-ai" class="clickable">
+        <NavLink to="/MarcelAI" class="clickable">
           <u>
             <b>marcel ai</b>
           </u>

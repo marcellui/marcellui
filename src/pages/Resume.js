@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import { useEffect } from "react";
 
 function Resume() {
   useEffect(() => {
@@ -15,6 +15,7 @@ function Resume() {
         width="640"
         height="825"
         allow="autoplay"
+        title="resume"
       ></iframe>
 
       <a
