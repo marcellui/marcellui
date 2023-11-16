@@ -26,6 +26,8 @@ function MarcelAI() {
   const openai = new OpenAIApi.OpenAI({
      apiKey: process.env.REACT_APP_OPENAI_API_KEY, dangerouslyAllowBrowser: true
     });
+
+    
   
   
   useEffect(() => {
