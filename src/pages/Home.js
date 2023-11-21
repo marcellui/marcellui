@@ -75,7 +75,7 @@ function Home() {
         ,
         <br />
         or ask{" "}
-        <NavLink to="/marcel-ai" class="clickable">
+        <NavLink to="/marcelAI" class="clickable">
           <u>my ai</u>
         </NavLink>{" "}
         a question!

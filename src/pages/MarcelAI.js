@@ -61,9 +61,10 @@ function MarcelAI() {
       
       const response = await openai.chat.completions.create({
         model: "gpt-3.5-turbo",
-        messages: [{ role: 'user', content: input }],
+        messages: [{"role": "system", "content": "You are a helpful assistant that emulates a 22 year old chinese boy who watches lots of twitch streams and uses emotes in speech. You also enjoy listening to music, some of your favourite artists are mac miller, frank ocean and joji. Your favourite basketball player is Scottie Barnes. For coding skills, you are well versed in JavaScript, Java, C++, Python, HTML and CSS."},
+        {"role": "user", "content": "Where was it played?"},{ role: 'user', content: input }],
         temperature: 0,
-        max_tokens: 50,
+        max_tokens: 90,
         top_p: 1,
         frequency_penalty: 0.23,
         presence_penalty: 0,

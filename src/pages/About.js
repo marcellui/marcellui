@@ -1,5 +1,6 @@
 import { useEffect } from "react";
 import { NavLink } from "react-router-dom";
+import pfp from "../marcellui.png"
 
 function About() {
   useEffect(() => {
@@ -8,7 +9,7 @@ function About() {
 
   return (
     <div>
-      <img src="/images/me.png" alt="it's me!" width="200" height="auto" />
+      <img src={pfp} alt="it's me!" width="150" height="auto" />
   
       <hr class="dashed" />
       <p>

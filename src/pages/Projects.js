@@ -1,10 +1,25 @@
-import { useEffect } from "react";
+import { useEffect , useState} from "react";
 import { NavLink } from "react-router-dom";
+import axios from "axios";
 
 function Projects() {
+
+  const [projects, setProjects] = useState([]);
+
   useEffect(() => {
     document.title = "marcel's projects ";
   }, []);
+
+  useEffect(() => {
+    const getProjects = async () => {
+        const { data } = await axios.get(`${process.env.REACT_APP_BACKEND_URL}/projects`);
+        setProjects(data);
+        console.log(data)
+    };
+        getProjects();
+    
+} ,[]);
+  
 
   return (
     <div>

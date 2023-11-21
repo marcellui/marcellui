@@ -8,7 +8,7 @@ import MarcelAI from "./pages/MarcelAI";
 import "./index.css";
 import NavBar from "./components/NavBar";
 import Footer from "./components/footer";
-// import TagManager from "react-gtm-module";
+// import TagManager from "react-gtm-module";s
 
 
 
