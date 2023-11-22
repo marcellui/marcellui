@@ -31,23 +31,36 @@ function Projects() {
       </p>
       <hr class="dashed" />
       <p>
-        <NavLink to="/MarcelAI" class="clickable">
+        <NavLink to="/marcelAI" class="clickable">
           <u>
-            <b>marcel ai</b>
+            <b>marcel AI</b>
           </u>
         </NavLink>{" "}
         <br />
-        talk to an ai version of me (try it out)!
+        talk to an AI version of me!
       </p>
+
       <p>
-        <NavLink to="/" class="clickable">
-          <u>
-            <b>personal website</b>
-          </u>
-        </NavLink>{" "}
-        <br />
-        what you are looking at right now
+        { projects.map(project => {
+          return (
+            <>
+        
+            <u><a href={project.repo_link}><b>{project.project_name}</b></a></u>
+            <br/>
+            <p>{project.description}</p>
+         
+   
+     
+        </>
+        )
+        
+        })
+          
+        }
+  
       </p>
+  
+    
       
      
       
