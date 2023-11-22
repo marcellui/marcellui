@@ -4,8 +4,7 @@ marcellui portfolio + ai chat bot project
 
 ## Overview
 
-What is your app? Brief description in a couple of sentences.
-it is a portfolio app for myself that has my resume and previous projects and experiences.
+A portfolio app for myself that has my resume and previous projects and experiences.
 under the projects tab there will be an ai chatbot where when you send a message it gives a personalized response potentially based on what I would say
 
 ### Problem
