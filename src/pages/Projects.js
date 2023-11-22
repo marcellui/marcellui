@@ -44,13 +44,9 @@ function Projects() {
         { projects.map(project => {
           return (
             <>
-        
             <u><a href={project.repo_link}><b>{project.project_name}</b></a></u>
             <br/>
             <p>{project.description}</p>
-         
-   
-     
         </>
         )
         
