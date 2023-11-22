@@ -39,7 +39,6 @@ function Projects() {
         <br />
         talk to an AI version of me!
       </p>
-
       <p>
         { projects.map(project => {
           return (
@@ -49,20 +48,9 @@ function Projects() {
             <p>{project.description}</p>
         </>
         )
-        
         })
-          
         }
-  
       </p>
-  
-    
-      
-     
-      
-     
-      
-
      
     </div>
   );
