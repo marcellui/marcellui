@@ -1,6 +1,6 @@
 import { useEffect } from "react";
 import { NavLink } from "react-router-dom";
-import pfp from "../marcellui.png"
+import pfp from "../../public/Screenshot 2023-11-20 at 16-52-40 m (@marceiiui) Instagram profile.png"
 
 function About() {
   useEffect(() => {
