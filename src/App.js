@@ -6,7 +6,7 @@ import Projects from "./pages/Projects";
 import Resume from "./pages/Resume";
 import MarcelAI from "./pages/MarcelAI";
 import "./index.css";
-import NavBar from "./components/NavBar";
+import NavBar from "./components/navbar";
 import Footer from "./components/footer";
 // import TagManager from "react-gtm-module";s
 
