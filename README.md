@@ -9,19 +9,13 @@ under the projects tab there will be an ai chatbot where when you send a message
 
 ### Problem
 
-Why is your app needed? Background information around any pain points or other reasons.
-
 app is needed for an interactive portfolio for myself to give to employers and prospective individuals who are interested in myself. Interactive porfolio with an AI chat feature would be useful because it allows for employers and individuals with questions about me to be answered without me being online or wait for a response via email.
 
 ### User Profile
 
-Who will use your app? How will they use it? Any special considerations that your app must take into account.
-
 employers and other individuals interested in me will use this app. they will use it to view my about me and projects and resume.  there are no special considerations that must be taken into account
 
 ### Features
-
-List the functionality that your app will include. These can be written as user stories or descriptions with related details. Do not describe _how_ these features are implemented, only _what_ needs to be implemented.
 
 home page with a nav bar with the tabs (home/about/projects/resume).
 the home page has a quick intro about me.
@@ -39,18 +33,13 @@ List technologies that will be used in your app, including any libraries to save
 React
 Node 
 Express
+Knex
 Open AI
 
 ### APIs
-
-List any external sources of data that will be used in your app.
-
 https://platform.openai.com/docs/quickstart?context=node
 
 ### Sitemap
-
-List the pages of your app with brief descriptions. You can show this visually, or write it out.
-
 the home page has a quick intro about me.
 the about page has a detailed writeup about me.
 the projects page has a list of projects completed by me, and you can click into each project to view it in more detail.
@@ -59,8 +48,6 @@ the marcel ai page has an ai chat bot that gives personalized responses.
  
 
 ### Mockups
-
-Provide visuals of your app's screens. You can use tools like Figma or pictures of hand-drawn sketches.
 
 https://www.figma.com/file/fK4m58FE0wzLaRYeVDCFju/Mockup-Capstone?type=design&node-id=0%3A1&mode=design&t=vKIE6l6FzyO9tZeQ-1
 
@@ -72,39 +59,26 @@ N/A
 
 ### Endpoints
 
-List endpoints that your server will implement, including HTTP methods, parameters, and example responses.
+/get returns all the projects stored in the backend
 
-/home - goes to the home page
-/about - goes to the about page
-/projects - goes to the projects page
-/resume - goes to the resume page
-/marcel-ai goes to the marcel AI page
 
 
 ### Auth
-
-Does your project include any login or user profile functionality? If so, describe how authentication/authorization will be implemented.
 
 none
 
 ## Roadmap
 
-Scope your project as a sprint. Break down the tasks that will need to be completed and map out timeframes for implementation. Think about what you can reasonably complete before the due date. The more detail you provide, the easier it will be to build.
-
-
 Nov 14 Finish Proposal
-
-
 Nov 15/16 Finish Front End 
 Nov 17 Start building AI Chat bot - connect API to js
 Nov 18-Nov 21 Finish AI Chat Bot
 Nov 22 build server
-
+Nov 23 - 25 deployment
 
 
 ## Nice-to-haves
 
-Your project will be marked based on what you committed to in the above document. Under nice-to-haves, you can list any additional features you may complete if you have extra time, or after finishing.
-
 blog feature where i can post blogs 
 socket io to live chat with employer
+login feature for users
