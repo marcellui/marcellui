@@ -1,6 +1,5 @@
-# Project Title
+# marcellui portfolio + ai chat bot project
 
-marcellui portfolio + ai chat bot project
 
 ## Overview
 
@@ -34,6 +33,7 @@ React
 Node 
 Express
 Knex
+Cors
 Open AI
 
 ### APIs
@@ -55,12 +55,11 @@ https://www.figma.com/file/fK4m58FE0wzLaRYeVDCFju/Mockup-Capstone?type=design&no
 
 Describe your data and the relationships between them. You can show this visually using diagrams, or write it out. 
 
-N/A
+projects object, with id, project name, repo link, and description.
 
 ### Endpoints
 
 /get returns all the projects stored in the backend
-
 
 
 ### Auth
@@ -69,12 +68,12 @@ none
 
 ## Roadmap
 
-Nov 14 Finish Proposal
-Nov 15/16 Finish Front End 
-Nov 17 Start building AI Chat bot - connect API to js
-Nov 18-Nov 21 Finish AI Chat Bot
-Nov 22 build server
-Nov 23 - 25 deployment
+Nov 14 Finish Proposal.
+Nov 15/16 Finish Front End.
+Nov 17 Start building AI Chat bot - connect API to js.
+Nov 18-Nov 21 Finish AI Chat Bot.
+Nov 22 build server.
+Nov 23 - 25 deployment.
 
 
 ## Nice-to-haves
