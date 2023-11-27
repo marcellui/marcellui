@@ -1,5 +1,5 @@
 # marcellui portfolio + ai chat bot project
-
+link to backend: https://github.com/marcellui/marcellui-backend
 
 ## Overview
 
@@ -26,9 +26,6 @@ the marcel ai page has an ai that gives personalized responses based off what I 
 ## Implementation
 
 ### Tech Stack
-
-List technologies that will be used in your app, including any libraries to save time or provide more functionality. Be sure to research any potential limitations.
-
 React
 Node 
 Express
