@@ -53,8 +53,6 @@ https://www.figma.com/file/fK4m58FE0wzLaRYeVDCFju/Mockup-Capstone?type=design&no
 
 ### Data
 
-Describe your data and the relationships between them. You can show this visually using diagrams, or write it out. 
-
 projects object, with id, project name, repo link, and description.
 
 ### Endpoints
