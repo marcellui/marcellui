@@ -11,7 +11,7 @@ function Resume() {
       <hr class="dashed" />
 
       <iframe
-        src="https://drive.google.com/file/d/1WvkqD-Iol6CDmCCMGlvcbp5JNWSsRAJa/preview"
+        src="https://docs.google.com/document/d/1_knry2NinCjlhQMCAilmh9vUAbZt4H8Gss2tJs3Q6YI/preview"
         width="640"
         height="825"
         allow="autoplay"
