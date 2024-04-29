@@ -11,8 +11,8 @@ function NavBar() {
       <nav>
         <NavLink to="/">home</NavLink> <br />
         <NavLink to="/about">about</NavLink> <br />
-        <NavLink to="/projects">software</NavLink> <br />
-        <NavLink to="/MechProjects">mechanical</NavLink> <br />
+        <NavLink to="/projects">SEprojects</NavLink> <br />
+        <NavLink to="/MechProjects">MEprojects</NavLink> <br />
         <NavLink to="/resume">resume</NavLink> <br />
         <NavLink to='/MarcelAI'>MarcelAI</NavLink>
         
