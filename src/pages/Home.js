@@ -69,8 +69,8 @@ function Home() {
       </p>
       <p>
         reach out to me anytime at{" "}
-        <a href="mailto:marcellui.ca@gmail.com" class="clickable">
-          marcellui.ca@gmail.com
+        <a href="mailto:m6lui@uwaterloo.ca" class="clickable">
+          m6lui@uwaterloo.ca
         </a>
         ,
         <br />
