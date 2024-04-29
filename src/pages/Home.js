@@ -69,7 +69,7 @@ function Home() {
       </p>
       <p>
         reach out to me anytime at{" "}
-        <a href="mailto:m6lui@uwaterloo.ca" class="clickable">
+        <a href="mailto:m6lui@uwaterloo.sca" class="clickable">
           m6lui@uwaterloo.ca
         </a>
         ,
@@ -81,8 +81,8 @@ function Home() {
         a question!
       </p>
       <div class="box">
-        i'm looking for 2024 summer coop swe positions! shoot me an{" "}
-        <a href="mailto:marcellui.ca@gmail.com" class="clickable">
+        i'm looking for 2025 winter coop swe or mech eng positions! shoot me an{" "}
+        <a href="mailto:m6lui@uwaterloo.ca" class="clickable">
           email
         </a>{" "}
         if you (or your friends) are hiring {" "}
