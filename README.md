@@ -8,7 +8,6 @@ Hi! I'm Marcel. I have recently completed a 4 month bootcamp at BrainStation, wh
 - JavaScript
 - MySQL
 - React
-- Knex
 
 I am currently seeking 2025 Winter(Jan - Apr) co-ops, please contact me at m6lui@uwaterloo.ca
 
