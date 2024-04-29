@@ -10,6 +10,6 @@ Hi! I'm Marcel. I have recently completed a 4 month bootcamp at BrainStation, wh
 - React
 - Knex
 
-I am currently seeking Winter 2025 co-ops, please contact me at m6lui@uwaterloo.ca
+I am currently seeking Winter(Jan - Apr) 2025 co-ops, please contact me at m6lui@uwaterloo.ca
 
 Please check out my porfolio, it is live at https://marcellui.netlify.app
