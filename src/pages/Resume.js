@@ -19,8 +19,8 @@ function Resume() {
       ></iframe>
 
       <a
-        href="/marcel-lui_resume.pdf"
-        download="marcel-lui_resume.pdf"
+        href="/marcel-lui_resume1.pdf"
+        download="marcel-lui_resume1.pdf"
         class="clickable"
       >
         download
