@@ -1,5 +1,5 @@
 # Introduction
-Hi! I'm Marcel. I am a third year Mechanical Engineering student at the University of Waterloo. I am testing the waters and believe I  want to make a switch to software engineering. I have recently completed a 4 month bootcamp at BrainStation, where I learned software fundamentals and created multiple fullstack projects. I believe my proven ability to learn quickly in a fast paced environment is what makes me well suited to be an efficient and effective Software Engineer. 
+Hi! I'm Marcel. I am a third year Mechanical Engineering student at the University of Waterloo. I want to make the switch to Software Engineering. I have recently completed a 4 month bootcamp at BrainStation, where I learned software fundamentals and created multiple fullstack projects. I believe my proven ability to learn quickly in a fast paced environment is what makes me well suited to be an efficient and effective Software Engineer. 
 
 ## Technologies and Tools
 - **Languages:** JavaScript, TypeScript, Python, Java, C++
