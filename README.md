@@ -5,7 +5,7 @@ Hi! I'm Marcel. I am a third year Mechanical Engineering student at the Universi
 - **Languages:** JavaScript, TypeScript, Python, Java, C++
 - **Frontend:** React, React Native, Next.js, HTML5, CSS3, SASS, Redux
 - **Backend:** Node.js, Express.js, Server-side JavaScript
-- **Database:** MySQL, PostgreSQL
+- **Databases:** MySQL, PostgreSQL
 - **Cloud & Hosting:**  Heroku, Netlify
 - **Testing:** React Testing, React Testing Library
 - **Version Control:** Git, GitHub, Git Flow, Pull Requests, Code Reviews
