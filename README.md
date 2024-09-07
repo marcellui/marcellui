@@ -14,6 +14,6 @@ Hi! I'm Marcel. I am third year Mechanical Engineering student at the University
 - **Package Managers:** NPM 
 - **Libraries & Frameworks:** Axios, Socket.io, React Router, Knex.js
 
-I am currently seeking 2025 Winter(Jan - Apr) co-ops, please contact me at m6lui@uwaterloo.ca
+I am currently seeking 2025 Winter (Jan - Apr) co-ops, please contact me at m6lui@uwaterloo.ca
 
 Please check out my porfolio, it is live at https://marcellui.netlify.app
